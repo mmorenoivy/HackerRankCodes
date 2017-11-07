@@ -1,6 +1,6 @@
 # HackerRankCodes
 Repository for my HackerRank challenges
-
+All of the codes are written in C#. Tested and working 100% in Visual Studio
 Algo1.cs = <b>SolveMeFirst</b> <br>
 <b>Input Format</b>
 <br>
