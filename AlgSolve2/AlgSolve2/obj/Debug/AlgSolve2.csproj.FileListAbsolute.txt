@@ -1,0 +1,6 @@
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\AlgSolve2\AlgSolve2\bin\Debug\AlgSolve2.exe.config
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\AlgSolve2\AlgSolve2\bin\Debug\AlgSolve2.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\AlgSolve2\AlgSolve2\bin\Debug\AlgSolve2.pdb
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\AlgSolve2\AlgSolve2\obj\Debug\AlgSolve2.csprojResolveAssemblyReference.cache
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\AlgSolve2\AlgSolve2\obj\Debug\AlgSolve2.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\AlgSolve2\AlgSolve2\obj\Debug\AlgSolve2.pdb

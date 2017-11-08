@@ -1,0 +1,6 @@
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe.config
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Staircase\Staircase\bin\Debug\Staircase.pdb
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Staircase\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Staircase\Staircase\obj\Debug\Staircase.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Staircase\Staircase\obj\Debug\Staircase.pdb

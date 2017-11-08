@@ -1,0 +1,6 @@
+c:\users\mivy\documents\visual studio 2015\Projects\AlgSolve1\AlgSolve1\bin\Debug\AlgSolve1.exe.config
+c:\users\mivy\documents\visual studio 2015\Projects\AlgSolve1\AlgSolve1\bin\Debug\AlgSolve1.exe
+c:\users\mivy\documents\visual studio 2015\Projects\AlgSolve1\AlgSolve1\bin\Debug\AlgSolve1.pdb
+c:\users\mivy\documents\visual studio 2015\Projects\AlgSolve1\AlgSolve1\obj\Debug\AlgSolve1.csprojResolveAssemblyReference.cache
+c:\users\mivy\documents\visual studio 2015\Projects\AlgSolve1\AlgSolve1\obj\Debug\AlgSolve1.exe
+c:\users\mivy\documents\visual studio 2015\Projects\AlgSolve1\AlgSolve1\obj\Debug\AlgSolve1.pdb

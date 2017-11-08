@@ -1,0 +1,5 @@
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe.config
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.pdb
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.pdb

@@ -1,0 +1,5 @@
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Alg3\Alg3\bin\Debug\Alg3.exe.config
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Alg3\Alg3\bin\Debug\Alg3.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Alg3\Alg3\bin\Debug\Alg3.pdb
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Alg3\Alg3\obj\Debug\Alg3.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\Alg3\Alg3\obj\Debug\Alg3.pdb

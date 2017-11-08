@@ -1,0 +1,6 @@
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\30Days\Day1DataType\Day1DataType\bin\Debug\Day1DataType.exe.config
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\30Days\Day1DataType\Day1DataType\bin\Debug\Day1DataType.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\30Days\Day1DataType\Day1DataType\bin\Debug\Day1DataType.pdb
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\30Days\Day1DataType\Day1DataType\obj\Debug\Day1DataType.csprojResolveAssemblyReference.cache
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\30Days\Day1DataType\Day1DataType\obj\Debug\Day1DataType.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\HackerRank\30Days\Day1DataType\Day1DataType\obj\Debug\Day1DataType.pdb
