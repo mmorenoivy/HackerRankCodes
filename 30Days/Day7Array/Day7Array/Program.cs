@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,20 +11,18 @@ namespace Day7Array
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter numbers");
-            int n = int.Parse(Console.In.ReadLine());
-            st(n);
+
+            Console.WriteLine(ReverseString("1234"));
+            Console.WriteLine(ReverseString("samuel"));
+            Console.WriteLine(ReverseString("example string"));
+            Console.ReadKey();
         }
-        static int st(int n)
+        public static string ReverseString(string s)
         {
-            int[] arr;
-            for (n=0; n > 0; --n)
-            {
-               Console.WriteLine("{0}" + arr[n] + " ");
-            }
-            Console.WriteLine("");
-            return n;
+            char[] arr = s.ToCharArray();
+            Array.Reverse(arr);
+            return new string(arr);
         }
-        
-}
+
+    }
 }
